@@ -1,0 +1,12 @@
+body {
+  /* background-color: red; */
+  max-width: 500px;
+  margin: auto;
+}
+.display-message {
+  display: none;
+}
+
+form {
+  width: 100%;
+}
